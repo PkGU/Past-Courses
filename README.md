@@ -1,1 +1,1 @@
-# PkGU.pastcourses
+https://pkgu.github.io/Past-Courses/
