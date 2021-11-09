@@ -22,11 +22,11 @@ Arranging, please wait for a few days.
 
 [BIC-notes](https://pkgu.github.io)
 
-[Mathematical Statistics Midterm Revision](https://pkgu-github-io-maintenance.s3.cn-east-1.jdcloud-oss.com/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%20%E6%9C%9F%E4%B8%AD%E5%A4%8D%E4%B9%A0.pdf)
+[Mathematical Statistics Midterm Revision](https://github.com/PkGU/assets/blob/main/数理统计%20期中复习.pdf)
 
-[AIC-notes](https://pkgu-github-io-maintenance.s3.cn-east-1.jdcloud-oss.com/AIC_notes.pdf)
+[AIC-notes](https://github.com/PkGU/assets/blob/main/AIC_notes.pdf)
 
-[Gauss-Bonnet-Chern](https://pkgu-github-io-maintenance.s3.cn-east-1.jdcloud-oss.com/GaussBonnetChern.pdf)
+[Gauss-Bonnet-Chern](https://github.com/PkGU/assets/blob/main/GaussBonnetChern.pdf)
 
 ### Past Lecture Notes
 
@@ -34,8 +34,8 @@ Arranging, please wait for a few days.
 
 ### Past Course Essays
 
-[Notes about Frankel's Conjecture 2020.06](https://pkgu-github-io-maintenance.s3.cn-east-1.jdcloud-oss.com/Frankel%E2%80%99sConjecture%20.pdf)
+[Notes about Frankel's Conjecture 2020.06](https://github.com/PkGU/assets/blob/main/Frankel’sConjecture%20.pdf)
 
-["Dessin  d'enfants" 2021.01](https://pkgu-github-io-maintenance.s3.cn-east-1.jdcloud-oss.com/dessin%20d%27enfant%20.pdf)
+["Dessin  d'enfants" 2021.01](https://github.com/PkGU/assets/blob/main/dessin%20d'enfant%20.pdf)
 
 # [Back to Homepage](https://pkgu.github.io)
