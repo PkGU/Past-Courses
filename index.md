@@ -18,9 +18,9 @@ Arranging, please wait for a few days.
 
 [VC-Dimensions](https://pkgu.github.io)
 
-[Spectural Sparsification for Graphs](https://pkgu.github.io)
+[Spectral Sparsification for Graphs](https://pkgu.github.io)
 
-[BIC-notes](https://pkgu.github.io)
+[BIC-notes](https://github.com/PkGU/assets/blob/main/BIC_notes.pdf)
 
 [Mathematical Statistics Midterm Revision](https://github.com/PkGU/assets/blob/main/数理统计%20期中复习.pdf)
 
