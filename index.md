@@ -18,7 +18,7 @@
 
 Arranging, please wait for a few days.
 
-[VC-Dimensions](https://pkgu.github.io)
+[VC-Dimension-notes](https://pkgu.github.io)
 
 [Spectral Sparsification for Graphs](https://pkgu.github.io)
 
