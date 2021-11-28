@@ -24,6 +24,8 @@ Arranging, please wait for a few days.
 
 [BIC-notes](https://github.com/PkGU/assets/blob/main/BIC_notes.pdf)
 
+[High-Dim-Probability-notes (Chap1->3)](https://github.com/PkGU/assets/blob/main/高维概率自学笔记.pdf)
+
 [Mathematical Statistics Midterm Revision](https://github.com/PkGU/assets/blob/main/数理统计%20期中复习.pdf)
 
 [AIC-notes](https://github.com/PkGU/assets/blob/main/AIC_notes.pdf)
