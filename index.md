@@ -14,19 +14,25 @@
 
 # Past Notes 
 
-### Paper Reading, Comments etc.
+### [All of concise paper notes](https://pkgu.github.io)
 
-Arranging, please wait for a few days.
+### Reading Notes
 
 [VC-Dimension-notes](https://pkgu.github.io)
 
 [Spectral-Sparsification-for-Graphs](https://pkgu.github.io)
 
-[BIC-notes](https://github.com/PkGU/assets/blob/main/BIC_notes.pdf)
+[High-Dim-Probability-notes (Chap8)](https://github.com/PkGU/assets/blob/main/高维概率自学笔记4.pdf)
+
+[High-Dim-Probability-notes (Chap7)](https://github.com/PkGU/assets/blob/main/高维概率自学笔记3.pdf)
+
+[High-Dim-Probability-notes (Chap5)](https://github.com/PkGU/assets/blob/main/高维概率自学笔记2.pdf)
 
 [High-Dim-Probability-notes (Chap1->3)](https://github.com/PkGU/assets/blob/main/高维概率自学笔记.pdf)
 
 [Math-Stat-Midterm-Revision](https://github.com/PkGU/assets/blob/main/数理统计%20期中复习.pdf)
+
+[BIC-notes](https://github.com/PkGU/assets/blob/main/BIC_notes.pdf)
 
 [AIC-notes](https://github.com/PkGU/assets/blob/main/AIC_notes.pdf)
 
@@ -36,7 +42,7 @@ Arranging, please wait for a few days.
 
 （It's a little disappointing that I do NOT have any “recognizable” lecture note haha）
 
-### Past Course Essays
+### Past Course Papers
 
 [Notes about Frankel's Conjecture 2020.06](https://github.com/PkGU/assets/blob/main/Frankel’sConjecture%20.pdf)
 
