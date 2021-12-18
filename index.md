@@ -20,7 +20,7 @@
 
 [VC-Dimension-notes](https://pkgu.github.io)
 
-[Spectral-Sparsification-for-Graphs](https://pkgu.github.io)
+[Spectral-Sparsification-for-Graphs](https://github.com/PkGU/assets/blob/main/SpecSpar.pdf)
 
 [High-Dim-Probability-notes (Chap8)](https://github.com/PkGU/assets/blob/main/高维概率自学笔记4.pdf)
 
