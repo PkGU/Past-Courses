@@ -18,7 +18,7 @@
 
 ### Reading Notes
 
-[Neaural-Tangent-Kernel](https://pkgu.github.io/Past-Courses/)
+[Neural-Tangent-Kernel](https://pkgu.github.io/Past-Courses/)
 
 [VC-Dimension-notes](https://pkgu.github.io/Past-Courses/)
 
