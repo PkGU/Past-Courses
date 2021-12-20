@@ -18,27 +18,27 @@
 
 ### Reading Notes
 
-[Neural-Tangent-Kernel](https://pkgu.github.io/Past-Courses/)
+- [Neural-Tangent-Kernel](https://pkgu.github.io/Past-Courses/)
 
-[VC-Dimension-notes](https://pkgu.github.io/Past-Courses/)
+- [VC-Dimension-notes](https://pkgu.github.io/Past-Courses/)
 
-[Spectral-Sparsification-for-Graphs](https://github.com/PkGU/assets/blob/main/SpecSpar.pdf)
+- [Spectral-Sparsification-for-Graphs](https://github.com/PkGU/assets/blob/main/SpecSpar.pdf)
 
-[High-Dim-Probability-notes (Chap8)](https://github.com/PkGU/assets/blob/main/高维概率自学笔记4.pdf)
+- [High-Dim-Probability-notes (Chap8)](https://github.com/PkGU/assets/blob/main/高维概率自学笔记4.pdf)
 
-[High-Dim-Probability-notes (Chap7)](https://github.com/PkGU/assets/blob/main/高维概率自学笔记3.pdf)
+- [High-Dim-Probability-notes (Chap7)](https://github.com/PkGU/assets/blob/main/高维概率自学笔记3.pdf)
 
-[High-Dim-Probability-notes (Chap5)](https://github.com/PkGU/assets/blob/main/高维概率自学笔记2.pdf)
+- [High-Dim-Probability-notes (Chap5)](https://github.com/PkGU/assets/blob/main/高维概率自学笔记2.pdf)
 
-[High-Dim-Probability-notes (Chap1->3)](https://github.com/PkGU/assets/blob/main/高维概率自学笔记.pdf)
+- [High-Dim-Probability-notes (Chap1->3)](https://github.com/PkGU/assets/blob/main/高维概率自学笔记.pdf)
 
-[Math-Stat-Midterm-Revision](https://github.com/PkGU/assets/blob/main/数理统计%20期中复习.pdf)
+- [Math-Stat-Midterm-Revision](https://github.com/PkGU/assets/blob/main/数理统计%20期中复习.pdf)
 
-[BIC-notes](https://github.com/PkGU/assets/blob/main/BIC_notes.pdf)
+- [BIC-notes](https://github.com/PkGU/assets/blob/main/BIC_notes.pdf)
 
-[AIC-notes](https://github.com/PkGU/assets/blob/main/AIC_notes.pdf)
+- [AIC-notes](https://github.com/PkGU/assets/blob/main/AIC_notes.pdf)
 
-[Gauss-Bonnet-Chern](https://github.com/PkGU/assets/blob/main/GaussBonnetChern.pdf)
+- [Gauss-Bonnet-Chern](https://github.com/PkGU/assets/blob/main/GaussBonnetChern.pdf)
 
 ### Past Lecture Notes
 
@@ -46,8 +46,8 @@
 
 ### Past Course Papers
 
-[Notes about Frankel's Conjecture 2020.06](https://github.com/PkGU/assets/blob/main/Frankel’sConjecture%20.pdf)
+- [Notes about Frankel's Conjecture 2020.06](https://github.com/PkGU/assets/blob/main/Frankel’sConjecture%20.pdf)
 
-["Dessin  d'enfants" 2021.01](https://github.com/PkGU/assets/blob/main/dessin%20d'enfant%20.pdf)
+- ["Dessin  d'enfants" 2021.01](https://github.com/PkGU/assets/blob/main/dessin%20d'enfant%20.pdf)
 
 # [Back to Homepage](https://pkgu.github.io)
