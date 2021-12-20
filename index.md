@@ -20,7 +20,7 @@
 
 - [Neural-Tangent-Kernel](https://pkgu.github.io/Past-Courses/)
 
-- [VC-Dimension-notes](https://pkgu.github.io/Past-Courses/)
+- [VC-Dimension-notes](https://github.com/PkGU/assets/blob/main/VCdim_notes.pdf)
 
 - [Spectral-Sparsification-for-Graphs](https://github.com/PkGU/assets/blob/main/SpecSpar.pdf)
 
